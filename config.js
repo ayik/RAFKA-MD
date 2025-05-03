@@ -229,14 +229,14 @@ async function loadConfig() {
       (global.webs = "https://s.id/Cerdasin62"),
       (global.gcwangsaf = "https://chat.whatsapp.com/GoHmb4noThh92L8FFf79Bh"),
       (global.saweria = "https://saweria.com/wudysoft"),
-      (global.pulsa = "082195322106"),
+      (global.pulsa = "085691994709"),
       (global.trakteer = "https://trakteer.id/wudysoft"),
       (global.paypal = "wudysoft@mail.com"),
-      (global.gopay = "082195322106"),
-      (global.povo = "082195322106"),
-      (global.pgopay = "082195322106"),
-      (global.ppulsa = "082195322106"),
-      (global.ppulsa2 = "082195322106"),
+      (global.gopay = "085691994709"),
+      (global.povo = "085691994709"),
+      (global.pgopay = "085691994709"),
+      (global.ppulsa = "085691994709"),
+      (global.ppulsa2 = "085691994709"),
       (global.psaweria = "https://saweria.com/Wudysoft"),
       (global.rpg = {
         emoticon(string) {
@@ -436,12 +436,9 @@ function businessOwnerJid() {
     pickRandom([
       global.nomorown,
       "0",
-      "628561122343",
-      "6288906250517",
-      "6282195322106",
-      "6281119568305",
-      "6281282722861",
-      "6282112790446",
+      "6285691994709",
+      "6285161714488",
+      "6285649050488",
     ]) + "@s.whatsapp.net",
   ]);
 }
